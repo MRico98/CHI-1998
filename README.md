@@ -1,7 +1,7 @@
 # HCI-1998
 
 ### This repository is for the asignature **Human Computer Interaction**.
-
+Explanation of the final proyect: https://youtu.be/eMnqWBikjcU
 
 ~~~
 Here you will see the documentation and analisis for our proyect. 
